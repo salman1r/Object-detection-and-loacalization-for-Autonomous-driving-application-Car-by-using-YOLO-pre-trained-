@@ -1,0 +1,2 @@
+# Object-detection-and-loacalization-for-Autonomous-driving-application-Car-by-using-YOLO-pre-trained-
+This project is build for object detection and loacalization for Autonomous  driving Car application by using YOLO pre-trained model. this pre-trained  model is trained on COCO(common objects in contact) dataset.This dataset has  80 object categories and 91 stuff categories. This model uses five anchor  boxes to built a right size bounding boxes on detected objects.
